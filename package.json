@@ -1,0 +1,30 @@
+{
+  "name": "dummyapi",
+  "version": "1.0.0",
+  "description": "Dummy API for Twilio voice call verification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "~6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markkwasnick/dummyapi.git"
+  },
+  "keywords": [
+    "dummy",
+    "api",
+    "express"
+  ],
+  "author": "Mark Kwasnick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markkwasnick/dummyapi/issues"
+  },
+  "homepage": "https://github.com/markkwasnick/dummyapi#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

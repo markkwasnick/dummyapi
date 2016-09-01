@@ -1,0 +1,8 @@
+{
+  "name": "Dummyapi",
+  "description": "Dummy API to validate Twilio",
+  "repository": "https://github.com/markkwasnick/dummyapi",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express"],
+  "image": "heroku/nodejs"
+}
